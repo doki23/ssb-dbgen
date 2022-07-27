@@ -1,9 +1,6 @@
 #!/bin/sh
 set -e
 
-echo "current work dir:"
-ls -la
-
 echo "generating data..."
  
 cd /ssb-dbgen
