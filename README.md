@@ -4,5 +4,5 @@
 ## Usage
 ```shell
 docker build . -t ssb-dbgen:latest
-docker run -v $(pwd)/data:/data --rm ssb-dbgen:0.2 -s 30 -T c
+docker run -v $(pwd)/data:/data --rm ssb-dbgen:latest -s 30 -T c
 ```
