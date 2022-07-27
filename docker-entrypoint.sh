@@ -8,4 +8,5 @@ cd /ssb-dbgen
 
 mv *.tbl /data
 
+ls -la /data
 echo "done"
